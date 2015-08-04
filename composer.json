@@ -1,0 +1,14 @@
+{
+	"name": "mvogelgesang/utappdslackbot",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:mvogelgesang/Pintlabs_Service_Untappd.git"
+    }
+  ],
+  "require": {
+    "mvogelgesang/Pintlabs_Service_Untappd": "dev-master",
+    "threadmeup/slack-sdk": "1.1-stable"
+  },
+  "minimum-stability": "stable"
+}
